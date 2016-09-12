@@ -5,6 +5,9 @@ NOAA Award NA15NMF4270313
 
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/fish_1D8482DB.png" alt="fish_1D8482DB.png"/>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ARcEIbmgh_U?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
 The Sablefish (*Anoplopoma fimbria*) is a deep-water groundfish species widely distributed throughout the northern Pacific Ocean. While some broadscale movements of sablefish have been addressed with tagging studies, two fundamental questions related to sablefish movements are 1) Where do sablefish go during spawning and; 2) Are sablefish adults exclusively benthic inhabitants? To address these questions we will use “pop-up” satellite tag (PSAT) technology. Pop-up satellite tags are composed of a data-logger and battery, and a float with attached antenna [PHOTO](./img/tag.png). The tag is tethered to the fish and the data logger is programmed to continually collect depth, temperature, and location for a specified duration (weeks to months). At the end of the programmed time, a detachment mechanism is automatically activated that releases the data logger/float and antenna from the tether. The float carries the data logger to the surface where the antenna transmits the data to an orbiting satellite of the ARGOS System that then transmits data back to the researcher. Time series analysis will be employed to determine periodicity in depth profiles and relationships with other environmental parameters such as temperature. Data from this study will allow us to discern daily/weekly and monthly patterns in vertical positioning in the water column and will provide information on possible spawning locations.
 
 ---
